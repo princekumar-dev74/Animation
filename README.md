@@ -20,13 +20,13 @@ https://download-directory.github.io
     <!--project-1 -->
     <tr>
     <td valign="top">
-        <a target="_blank" href="https://princekumar-dev74.github.io/webkaizen-animation/DARK-MODE-MAGIC">
+        <a target="_blank" href="https://princekumar-dev74.github.io/Animation/DARK-MODE-MAGIC">
             <p align="center">Dark-Mode-Magic</p>
             <img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/webkaizen-animation/X/1.png"/>
         </a>
     </td>
     <td valign="top">
-        <a target="_blank" href="https://princekumar-dev74.github.io/webkaizen-animation/INK-ANIMATION">
+        <a target="_blank" href="https://princekumar-dev74.github.io/Animation/INK-ANIMATION">
             <p align="center">Ink-Animation</p>
             <img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/webkaizen-animation/X/2.png"/>
         </a>
@@ -34,13 +34,13 @@ https://download-directory.github.io
     </tr>
     <!--project-2 -->
     <td valign="top">
-        <a target="_blank" href="https://princekumar-dev74.github.io/webkaizen-animation/NATURE-PAGE">
+        <a target="_blank" href="https://princekumar-dev74.github.io/Animation/NATURE-PAGE">
             <p align="center">Nature-Page</p>
             <img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/webkaizen-animation/X/3.png"/>
         </a>
     </td>
     <td valign="top">
-        <a target="_blank" href="https://princekumar-dev74.github.io/webkaizen-animation/WEBKAIZEN-ANIMATION">
+        <a target="_blank" href="https://princekumar-dev74.github.io/Animation/WEBKAIZEN-ANIMATION">
             <p align="center">webkaizen-animation</p>
             <img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/webkaizen-animation/X/4.png"/>
         </a>
