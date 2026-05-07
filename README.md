@@ -8,11 +8,9 @@
     <img src="https://img.shields.io/badge/License-MIT-green">
 </p>
 
-> Hey Guys, new projects will keep getting added to this repository, so follow me.
-> <br>
-> “If someone is facing a problem downloading a project, they should first copy the project’s permalink and then visit this website and paste it there. That single project will be downloaded automatically.”
+<h3> > “If someone is facing a problem downloading a project, they should first copy the project’s permalink and then visit this website and paste it there. That single project will be downloaded automatically.” </h3>
 
-https://download-directory.github.io
+<h2> https://download-directory.github.io </h2>
 
 # Project's
 
