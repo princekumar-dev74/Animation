@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/License-MIT-green">
 </p>
 
-<h3> > “If someone is facing a problem downloading a project, they should first copy the project’s permalink and then visit this website and paste it there. That single project will be downloaded automatically.” </h3>
+<h3> If someone is facing a problem downloading a project, they should first copy the project’s permalink and then visit this website and paste it there. That single project will be downloaded automatically. </h3>
 
 <h2> https://download-directory.github.io </h2>
 
